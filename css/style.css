@@ -1,0 +1,25 @@
+
+/***  body   ***/
+body{
+    margin:0;
+    background-image:url('../img/fond.jpg');
+}
+.block1
+{
+    background-color: black;
+    width: 100%;
+    margin-top: -50px;
+text-align: center;
+}
+.taille-center{
+    width: 50%;
+    height:20%;
+    top: 50%; left: 28%;
+}
+.imgtaille{
+    width:350px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
